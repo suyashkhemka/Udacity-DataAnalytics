@@ -1,4 +1,4 @@
-# Udacity-DataAnalytics
+# Udacity-DataAnalytics-Nanodegree
 
 ## Project 1 - US Bikeshare Data Analysis
 
